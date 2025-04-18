@@ -64,7 +64,7 @@ We compared baseline linear regression with pipelines using scaling and polynomi
 
 ---
 
-## 🪞 Reflection Quality  
+## Reflection Quality  
 
 **What Worked:**  
 - Smoking status and BMI were highly predictive of cost.  
