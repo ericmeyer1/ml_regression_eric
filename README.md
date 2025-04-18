@@ -1,6 +1,8 @@
 # Medical Cost Regression Using Machine Learning  
-**Author:** Eric Meyer  
+**Author:** Eric Meyer
+
 **Date:** 4/17/2025
+
 **My Project Notebook:** [ML Final Project Juptyer Notebook](https://github.com/ericmeyer1/ml_regression_eric/blob/main/ml_regression_eric.ipynb)
 
 ---
