@@ -25,4 +25,4 @@ This notebook does a great job walking through the modeling process and comparin
 
 ## Peer Review: Brett's Regression Model Project
 
-**Brett's Project Peer Review MD:** peer_review.md
+[Brett's Project Peer Review MD:](https://github.com/ericmeyer1/ml_regression_eric/blob/main/peer_review.md)
