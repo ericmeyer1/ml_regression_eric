@@ -19,10 +19,3 @@
 
 ### Final Thoughts
 This notebook does a great job walking through the modeling process and comparing alternatives. The pipeline approach with `StandardScaler` shows improved performance in R² and RMSE, supporting the final reflection that it was the better model overall. With a few added visualizations and expanded feature justification, this would be an excellent end-to-end regression analysis notebook.
-
-
----
-
-## Peer Review: Brett's Regression Model Project
-
-[Brett's Project Peer Review MD:](https://github.com/ericmeyer1/ml_regression_eric/blob/main/peer_review.md)

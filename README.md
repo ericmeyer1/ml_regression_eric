@@ -88,3 +88,8 @@ To run this project locally:
 
 - git clone https://github.com/ericmeyer1/ml_regression_eric.git 
 
+---
+
+## Peer Review: Brett's Regression Model Project
+
+[Brett's Project Peer Review MD:](https://github.com/ericmeyer1/ml_regression_eric/blob/main/peer_review.md)
